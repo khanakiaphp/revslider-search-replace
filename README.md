@@ -29,4 +29,4 @@ WP CLI Command to search replace the website URLs in the Revolution sliders
 2. `wp rsr all <source-url> <destination-url>`
   - This will search replace the strings on all the sliders on the site
 3. `wp rsr all <source-url> <destination-url> --network`
-	- This command will will search replace the strings on all sliders accross all the sites in multisite network.
+  - This command will will search replace the strings on all sliders accross all the sites in multisite network.
