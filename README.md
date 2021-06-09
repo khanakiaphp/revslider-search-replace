@@ -25,7 +25,7 @@ WP CLI Command to search replace the website URLs in the Revolution sliders
 ##### EXAMPLES
 
 1. `wp rsr 2 <source-url> <destination-url>`
-  - This will search replace the strings in the slider with is "2"
+  - This will search replace the strings in particular slider which has ID = "2"
 2. `wp rsr all <source-url> <destination-url>`
   - This will search replace the strings on all the sliders on the site
 3. `wp rsr all <source-url> <destination-url> --network`
